@@ -3,7 +3,8 @@ Simple task manager
 
 ## Stack: ##
 Python 3.5.2 <br/>
-Flask 1.1.4
+Flask 1.1.4 <br/>
+SQLite 3.11.0
 
 ## Getting started ##
 1) Creating python envoirment <br/>
